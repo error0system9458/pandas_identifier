@@ -1,4 +1,5 @@
 # pandas_identifier
+# Identifies cell name and runs api calls if the name matches the search query.
 import pandas as pd
 import os
 
